@@ -8,5 +8,4 @@ define view ZAG_UNIT_TEST
   pgmid,
   object,
   obj_name
-} 
- 
+}
