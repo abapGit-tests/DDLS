@@ -1,16 +1,7 @@
 {
-"BASEINFO":
-{
-"FROM":
-[
-"TADIR"
-],
-"ASSOCIATED":
-[],
-"BASE":
-[],
-"ANNO_REF":
-[],
-"VERSION":0
-}
+  "BASEINFO": {
+    "FROM": [
+      "TADIR"
+    ]
+  }
 }
